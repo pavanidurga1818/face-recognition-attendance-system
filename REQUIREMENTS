@@ -1,0 +1,10 @@
+pip install scikit-learn==0.23.1
+pip install flask
+python -m pip install matplotlib==3.6.2
+pip install pandas==1.1.5
+pip install numpy==1.19.5
+*********************
+Install Visual C++ :
+Download Link:
+https://support.microsoft.com/en-us/topic/the-latest-supported-visual-cdownloads-2647da03-1eea-4433-9aff-95f26a218cc0
+Download--- x64: vc_redist.x64.exe
